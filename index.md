@@ -11,3 +11,7 @@
 message = 'Hello World'
 print(message)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
